@@ -1,0 +1,104 @@
+{
+  "Adres": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Adres.vue"
+  },
+  "LazyAdres": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Adres.vue"
+  },
+  "AktuelUrunler": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/AktuelUrunler.vue"
+  },
+  "LazyAktuelUrunler": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/AktuelUrunler.vue"
+  },
+  "BannerB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/BannerB.vue"
+  },
+  "LazyBannerB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/BannerB.vue"
+  },
+  "BunlariKacirma": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/BunlariKacirma.vue"
+  },
+  "LazyBunlariKacirma": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/BunlariKacirma.vue"
+  },
+  "Coppy": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Coppy.vue"
+  },
+  "LazyCoppy": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Coppy.vue"
+  },
+  "GirisYapB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/GirisYapB.vue"
+  },
+  "LazyGirisYapB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/GirisYapB.vue"
+  },
+  "HelloWorld": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/HelloWorld.vue"
+  },
+  "LazyHelloWorld": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/HelloWorld.vue"
+  },
+  "Indextest": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/indextest.vue"
+  },
+  "LazyIndextest": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/indextest.vue"
+  },
+  "KampanyalarB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/KampanyalarB.vue"
+  },
+  "LazyKampanyalarB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/KampanyalarB.vue"
+  },
+  "Kategoriler": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Kategoriler.vue"
+  },
+  "LazyKategoriler": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Kategoriler.vue"
+  },
+  "ListItem": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/list-item.vue"
+  },
+  "LazyListItem": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/list-item.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Logo.vue"
+  },
+  "PromosyonKoduB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/PromosyonKoduB.vue"
+  },
+  "LazyPromosyonKoduB": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/PromosyonKoduB.vue"
+  },
+  "Sepetim": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Sepetim.vue"
+  },
+  "LazySepetim": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/Sepetim.vue"
+  },
+  "UrunDetay": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/UrunDetay.vue"
+  },
+  "LazyUrunDetay": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/UrunDetay.vue"
+  },
+  "Uyegirispage": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/uyegirispage.vue"
+  },
+  "LazyUyegirispage": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/uyegirispage.vue"
+  },
+  "Uyekayitpage": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/uyekayitpage.vue"
+  },
+  "LazyUyekayitpage": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/SokNuxt-master/SokNuxt-master/components/uyekayitpage.vue"
+  }
+}

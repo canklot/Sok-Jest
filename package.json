@@ -1,0 +1,37 @@
+{
+  "name": "SokNuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.3.4",
+    "@vue/test-utils": "^1.0.0-beta.29",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.5.0",
+    "boostrap": "^2.0.0",
+    "bootstrap-vue": "^2.21.2",
+    "cookieparser": "^0.1.0",
+    "core-js": "^3.6.5",
+    "faker": "^5.1.0",
+    "firebase": "^8.2.1",
+    "jest": "^24.5.0",
+    "jest-serializer-vue": "^2.0.2",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^3.1.2",
+    "nuxt": "^2.14.12",
+    "vee-validate": "^3.4.5",
+    "vue": "^2.6.9",
+    "vue-jest": "^3.0.4",
+    "vue-template-compiler": "^2.6.10",
+    "vuex": "^3.1.1",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}

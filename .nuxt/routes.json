@@ -1,0 +1,98 @@
+[
+  {
+    "name": "alert-message",
+    "path": "/alert-message",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\alert-message.vue",
+    "chunkName": "pages/alert-message"
+  },
+  {
+    "name": "exercise-1",
+    "path": "/exercise-1",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\exercise-1.vue",
+    "chunkName": "pages/exercise-1"
+  },
+  {
+    "name": "exercise-2",
+    "path": "/exercise-2",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\exercise-2.vue",
+    "chunkName": "pages/exercise-2"
+  },
+  {
+    "name": "fruit-basket",
+    "path": "/fruit-basket",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\fruit-basket.vue",
+    "chunkName": "pages/fruit-basket"
+  },
+  {
+    "name": "github-card",
+    "path": "/github-card",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\github-card.vue",
+    "chunkName": "pages/github-card"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home"
+  },
+  {
+    "name": "list",
+    "path": "/list",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\list.vue",
+    "chunkName": "pages/list"
+  },
+  {
+    "name": "salad-bowl",
+    "path": "/salad-bowl",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\salad-bowl.vue",
+    "chunkName": "pages/salad-bowl"
+  },
+  {
+    "name": "Sepetim",
+    "path": "/Sepetim",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\Sepetim.vue",
+    "chunkName": "pages/Sepetim"
+  },
+  {
+    "name": "SutUrunleri",
+    "path": "/SutUrunleri",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\SutUrunleri.vue",
+    "chunkName": "pages/SutUrunleri"
+  },
+  {
+    "name": "temprature",
+    "path": "/temprature",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\temprature.vue",
+    "chunkName": "pages/temprature"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\test.vue",
+    "chunkName": "pages/test"
+  },
+  {
+    "name": "uyegirispage",
+    "path": "/uyegirispage",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\uyegirispage.vue",
+    "chunkName": "pages/uyegirispage"
+  },
+  {
+    "name": "uyekayitpage",
+    "path": "/uyekayitpage",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\uyekayitpage.vue",
+    "chunkName": "pages/uyekayitpage"
+  },
+  {
+    "name": "UrunDetay-id",
+    "path": "/UrunDetay/:id",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\UrunDetay\\\\_id\\\\index.vue",
+    "chunkName": "pages/UrunDetay/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\SokNuxt-master\\\\SokNuxt-master\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
