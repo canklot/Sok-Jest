@@ -2,7 +2,7 @@
   <div class="BunlariKacirma">
     <div class="Baslik">Bunları Kaçırmayın</div>
     <!-- ----------urun----- -->
-    <nuxt-link :to="'/UrunDetay/'"> <!-- <nuxt-link :to="'/UrunDetay/'+id"> -->
+    
     <div class="urun">
       <img class="urunResim" src="@/images/lipton.jpg" />
       <div class="indirim">25 TL üzeri indirimli</div>
@@ -13,7 +13,7 @@
       <div class="yeniFiyat">₺22,00</div>
       <div class="arti">+</div>
     </div>
-    </nuxt-link>
+    
     <!-- ----------urun----- -->
     <div class="urun">
       <img class="urunResim" src="@/images/deterjan.jpg" />

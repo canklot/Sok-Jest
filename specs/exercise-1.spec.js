@@ -20,7 +20,7 @@ test('component renders the users', async () => {
     }
   });
 
-  const lis = wrapper.findAll('li');
+  const lis = wrapper.findAll('li');  /* kactane oldugunu sayiyor */
   expect(lis.length).toBe(3);
 
   const pickedName = lis.at(1).text();

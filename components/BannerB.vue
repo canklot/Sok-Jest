@@ -1,8 +1,8 @@
 <template>
   <div class="BannerB">
     <div class="alan-2">
-      <v-btn class="buton2" depressed>Kurumsal</v-btn>
-      <v-btn class="buton2" depressed>Yatırımcı İlişkileri</v-btn>
+      <button class="buton2" depressed>Kurumsal</button> <!-- v-button du bunlar -->
+      <button class="buton2" depressed>Yatırımcı İlişkileri</button>
     </div>
     <div class="alan-1">
       <nuxt-link :to="'/Home/'">

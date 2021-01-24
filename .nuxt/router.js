@@ -4,22 +4,22 @@ import { normalizeURL, decode } from '@nuxt/ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _4ba07245 = () => interopDefault(import('..\\pages\\alert-message.vue' /* webpackChunkName: "pages/alert-message" */))
-const _55b62946 = () => interopDefault(import('..\\pages\\exercise-1.vue' /* webpackChunkName: "pages/exercise-1" */))
-const _5599fa44 = () => interopDefault(import('..\\pages\\exercise-2.vue' /* webpackChunkName: "pages/exercise-2" */))
-const _75e033c0 = () => interopDefault(import('..\\pages\\fruit-basket.vue' /* webpackChunkName: "pages/fruit-basket" */))
-const _d7e2ffae = () => interopDefault(import('..\\pages\\github-card.vue' /* webpackChunkName: "pages/github-card" */))
-const _569457c0 = () => interopDefault(import('..\\pages\\Home.vue' /* webpackChunkName: "pages/Home" */))
-const _3e0b343f = () => interopDefault(import('..\\pages\\list.vue' /* webpackChunkName: "pages/list" */))
-const _160862e2 = () => interopDefault(import('..\\pages\\salad-bowl.vue' /* webpackChunkName: "pages/salad-bowl" */))
-const _4b9808c0 = () => interopDefault(import('..\\pages\\Sepetim.vue' /* webpackChunkName: "pages/Sepetim" */))
-const _160fd327 = () => interopDefault(import('..\\pages\\SutUrunleri.vue' /* webpackChunkName: "pages/SutUrunleri" */))
-const _4e383858 = () => interopDefault(import('..\\pages\\temprature.vue' /* webpackChunkName: "pages/temprature" */))
-const _ad08a39a = () => interopDefault(import('..\\pages\\test.vue' /* webpackChunkName: "pages/test" */))
-const _6d5c31ee = () => interopDefault(import('..\\pages\\uyegirispage.vue' /* webpackChunkName: "pages/uyegirispage" */))
-const _2753af46 = () => interopDefault(import('..\\pages\\uyekayitpage.vue' /* webpackChunkName: "pages/uyekayitpage" */))
-const _94106ec8 = () => interopDefault(import('..\\pages\\UrunDetay\\_id\\index.vue' /* webpackChunkName: "pages/UrunDetay/_id/index" */))
-const _c26058fe = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _101f6bb8 = () => interopDefault(import('..\\pages\\alert-message.vue' /* webpackChunkName: "pages/alert-message" */))
+const _3ed2c26c = () => interopDefault(import('..\\pages\\exercise-1.vue' /* webpackChunkName: "pages/exercise-1" */))
+const _3eb6936a = () => interopDefault(import('..\\pages\\exercise-2.vue' /* webpackChunkName: "pages/exercise-2" */))
+const _6bb2bfed = () => interopDefault(import('..\\pages\\fruit-basket.vue' /* webpackChunkName: "pages/fruit-basket" */))
+const _12598b48 = () => interopDefault(import('..\\pages\\github-card.vue' /* webpackChunkName: "pages/github-card" */))
+const _7699dd4d = () => interopDefault(import('..\\pages\\Home.vue' /* webpackChunkName: "pages/Home" */))
+const _40218528 = () => interopDefault(import('..\\pages\\list.vue' /* webpackChunkName: "pages/list" */))
+const _006d81fc = () => interopDefault(import('..\\pages\\salad-bowl.vue' /* webpackChunkName: "pages/salad-bowl" */))
+const _9940571a = () => interopDefault(import('..\\pages\\Sepetim.vue' /* webpackChunkName: "pages/Sepetim" */))
+const _78d48d5a = () => interopDefault(import('..\\pages\\SutUrunleri.vue' /* webpackChunkName: "pages/SutUrunleri" */))
+const _59a9ebc5 = () => interopDefault(import('..\\pages\\temprature.vue' /* webpackChunkName: "pages/temprature" */))
+const _4b5fb760 = () => interopDefault(import('..\\pages\\test.vue' /* webpackChunkName: "pages/test" */))
+const _81b71994 = () => interopDefault(import('..\\pages\\uyegirispage.vue' /* webpackChunkName: "pages/uyegirispage" */))
+const _3bae96ec = () => interopDefault(import('..\\pages\\uyekayitpage.vue' /* webpackChunkName: "pages/uyekayitpage" */))
+const _472b9f0f = () => interopDefault(import('..\\pages\\UrunDetay\\_id\\index.vue' /* webpackChunkName: "pages/UrunDetay/_id/index" */))
+const _396ceff4 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -39,67 +39,67 @@ export const routerOptions = {
 
   routes: [{
     path: "/alert-message",
-    component: _4ba07245,
+    component: _101f6bb8,
     name: "alert-message"
   }, {
     path: "/exercise-1",
-    component: _55b62946,
+    component: _3ed2c26c,
     name: "exercise-1"
   }, {
     path: "/exercise-2",
-    component: _5599fa44,
+    component: _3eb6936a,
     name: "exercise-2"
   }, {
     path: "/fruit-basket",
-    component: _75e033c0,
+    component: _6bb2bfed,
     name: "fruit-basket"
   }, {
     path: "/github-card",
-    component: _d7e2ffae,
+    component: _12598b48,
     name: "github-card"
   }, {
     path: "/Home",
-    component: _569457c0,
+    component: _7699dd4d,
     name: "Home"
   }, {
     path: "/list",
-    component: _3e0b343f,
+    component: _40218528,
     name: "list"
   }, {
     path: "/salad-bowl",
-    component: _160862e2,
+    component: _006d81fc,
     name: "salad-bowl"
   }, {
     path: "/Sepetim",
-    component: _4b9808c0,
+    component: _9940571a,
     name: "Sepetim"
   }, {
     path: "/SutUrunleri",
-    component: _160fd327,
+    component: _78d48d5a,
     name: "SutUrunleri"
   }, {
     path: "/temprature",
-    component: _4e383858,
+    component: _59a9ebc5,
     name: "temprature"
   }, {
     path: "/test",
-    component: _ad08a39a,
+    component: _4b5fb760,
     name: "test"
   }, {
     path: "/uyegirispage",
-    component: _6d5c31ee,
+    component: _81b71994,
     name: "uyegirispage"
   }, {
     path: "/uyekayitpage",
-    component: _2753af46,
+    component: _3bae96ec,
     name: "uyekayitpage"
   }, {
     path: "/UrunDetay/:id",
-    component: _94106ec8,
+    component: _472b9f0f,
     name: "UrunDetay-id"
   }, {
     path: "/",
-    component: _c26058fe,
+    component: _396ceff4,
     name: "index"
   }],
 

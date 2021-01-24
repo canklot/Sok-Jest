@@ -15,7 +15,6 @@ test('store is loaded ', () => {
     store
   })
   store.state.salad.push('cucumber')
-
   expect(wrapper.vm.salad).toEqual(['cucumber'])
 })
 
