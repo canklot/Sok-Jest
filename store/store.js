@@ -27,7 +27,7 @@ export const mutations = {
 export default {
     state() {
       return {
-        salad: ["saaaaaaaaaaaaalad"]
+        salad: ["saaaaaaaaaaaaalad", "hello","how are you"]
       }
     },
   

@@ -2,11 +2,13 @@
   <div>
     <div class="header">
       <div class="kampanyalar">
+        <!-- Kampanyalardan 9 tane falan olcak v-for ile döngü şeklinde store'dan çekecek --> 
         <div class="kampanya">
           <img src="../images//kampanya1.jpg" />
-          <p class="metin">{{salad}}</p>
+          <p class="metin">{{salad}}</p>  
           <p class="kampanyadetay">Kampanya Detayları ></p>
         </div>
+
       </div>
     </div>
   </div>
