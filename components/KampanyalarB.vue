@@ -2,13 +2,9 @@
   <div>
     <div class="header">
       <div class="kampanyalar">
-        <!-- Kampanyalardan 9 tane falan olcak v-for ile döngü şeklinde store'dan çekecek --> 
-        <div class="kampanya">
-          <img src="../images//kampanya1.jpg" />
-          <p class="metin">{{salad}}</p>  
-          <p class="kampanyadetay">Kampanya Detayları ></p>
-        </div>
-
+        <!-- Kampanyalardan 9 tane falan olcak v-for ile döngü şeklinde store'dan çekecek -->
+        <Kampanya :Parametre="salad" />
+        
       </div>
     </div>
   </div>
@@ -19,19 +15,21 @@ import { mapActions } from "vuex";
 import store from "../store/store.js";
 import Vue from "vue";
 import Vuex from "vuex";
-
+import Kampanya from "./Kampanya.vue";
 Vue.use(Vuex);
 
 export default {
   data() {
     return {
-      ...this.$store.state.store /* sonuna neden tekrar store koyuyuorum anlamadım ama silince çalışmıyor*/
-      
+      ...this.$store.state
+        .store /* sonuna neden tekrar store koyuyuorum anlamadım ama silince çalışmıyor*/
     };
   },
-
   methods: {
     ...mapActions(["addIngredient"])
+  },
+  components: {
+    Kampanya
   }
 };
 </script>

@@ -6,6 +6,7 @@ export { default as Coppy } from '../..\\components\\Coppy.vue'
 export { default as GirisYapB } from '../..\\components\\GirisYapB.vue'
 export { default as HelloWorld } from '../..\\components\\HelloWorld.vue'
 export { default as Indextest } from '../..\\components\\indextest.vue'
+export { default as Kampanya } from '../..\\components\\Kampanya.vue'
 export { default as KampanyalarB } from '../..\\components\\KampanyalarB.vue'
 export { default as Kategoriler } from '../..\\components\\Kategoriler.vue'
 export { default as ListItem } from '../..\\components\\list-item.vue'
@@ -24,6 +25,7 @@ export const LazyCoppy = import('../..\\components\\Coppy.vue' /* webpackChunkNa
 export const LazyGirisYapB = import('../..\\components\\GirisYapB.vue' /* webpackChunkName: "components/giris-yap-b" */).then(c => c.default || c)
 export const LazyHelloWorld = import('../..\\components\\HelloWorld.vue' /* webpackChunkName: "components/hello-world" */).then(c => c.default || c)
 export const LazyIndextest = import('../..\\components\\indextest.vue' /* webpackChunkName: "components/indextest" */).then(c => c.default || c)
+export const LazyKampanya = import('../..\\components\\Kampanya.vue' /* webpackChunkName: "components/kampanya" */).then(c => c.default || c)
 export const LazyKampanyalarB = import('../..\\components\\KampanyalarB.vue' /* webpackChunkName: "components/kampanyalar-b" */).then(c => c.default || c)
 export const LazyKategoriler = import('../..\\components\\Kategoriler.vue' /* webpackChunkName: "components/kategoriler" */).then(c => c.default || c)
 export const LazyListItem = import('../..\\components\\list-item.vue' /* webpackChunkName: "components/list-item" */).then(c => c.default || c)
