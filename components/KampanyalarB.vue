@@ -3,8 +3,8 @@
     <div class="header">
       <div class="kampanyalar">
         <!-- Kampanyalardan 9 tane falan olcak v-for ile döngü şeklinde store'dan çekecek -->
-        <Kampanya :Parametre="salad" />
-        
+        <!-- <Kampanya :Parametre="salad" /> -->
+        <Kampanya v-for="item in salad" :key="item" :Parametre="item" ></Kampanya>
       </div>
     </div>
   </div>

@@ -3,96 +3,112 @@
     "name": "alert-message",
     "path": "/alert-message",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\alert-message.vue",
-    "chunkName": "pages/alert-message"
+    "chunkName": "pages/alert-message",
+    "_name": "_101f6bb8"
   },
   {
     "name": "exercise-1",
     "path": "/exercise-1",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\exercise-1.vue",
-    "chunkName": "pages/exercise-1"
+    "chunkName": "pages/exercise-1",
+    "_name": "_3ed2c26c"
   },
   {
     "name": "exercise-2",
     "path": "/exercise-2",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\exercise-2.vue",
-    "chunkName": "pages/exercise-2"
+    "chunkName": "pages/exercise-2",
+    "_name": "_3eb6936a"
   },
   {
     "name": "fruit-basket",
     "path": "/fruit-basket",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\fruit-basket.vue",
-    "chunkName": "pages/fruit-basket"
+    "chunkName": "pages/fruit-basket",
+    "_name": "_6bb2bfed"
   },
   {
     "name": "github-card",
     "path": "/github-card",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\github-card.vue",
-    "chunkName": "pages/github-card"
+    "chunkName": "pages/github-card",
+    "_name": "_12598b48"
   },
   {
     "name": "Home",
     "path": "/Home",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\Home.vue",
-    "chunkName": "pages/Home"
+    "chunkName": "pages/Home",
+    "_name": "_7699dd4d"
   },
   {
     "name": "list",
     "path": "/list",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\list.vue",
-    "chunkName": "pages/list"
+    "chunkName": "pages/list",
+    "_name": "_40218528"
   },
   {
     "name": "salad-bowl",
     "path": "/salad-bowl",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\salad-bowl.vue",
-    "chunkName": "pages/salad-bowl"
+    "chunkName": "pages/salad-bowl",
+    "_name": "_006d81fc"
   },
   {
     "name": "Sepetim",
     "path": "/Sepetim",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\Sepetim.vue",
-    "chunkName": "pages/Sepetim"
+    "chunkName": "pages/Sepetim",
+    "_name": "_9940571a"
   },
   {
     "name": "SutUrunleri",
     "path": "/SutUrunleri",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\SutUrunleri.vue",
-    "chunkName": "pages/SutUrunleri"
+    "chunkName": "pages/SutUrunleri",
+    "_name": "_78d48d5a"
   },
   {
     "name": "temprature",
     "path": "/temprature",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\temprature.vue",
-    "chunkName": "pages/temprature"
+    "chunkName": "pages/temprature",
+    "_name": "_59a9ebc5"
   },
   {
     "name": "test",
     "path": "/test",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\test.vue",
-    "chunkName": "pages/test"
+    "chunkName": "pages/test",
+    "_name": "_4b5fb760"
   },
   {
     "name": "uyegirispage",
     "path": "/uyegirispage",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\uyegirispage.vue",
-    "chunkName": "pages/uyegirispage"
+    "chunkName": "pages/uyegirispage",
+    "_name": "_81b71994"
   },
   {
     "name": "uyekayitpage",
     "path": "/uyekayitpage",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\uyekayitpage.vue",
-    "chunkName": "pages/uyekayitpage"
+    "chunkName": "pages/uyekayitpage",
+    "_name": "_3bae96ec"
   },
   {
     "name": "UrunDetay-id",
     "path": "/UrunDetay/:id",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\UrunDetay\\\\_id\\\\index.vue",
-    "chunkName": "pages/UrunDetay/_id/index"
+    "chunkName": "pages/UrunDetay/_id/index",
+    "_name": "_472b9f0f"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_396ceff4"
   }
 ]
