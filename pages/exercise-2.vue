@@ -1,8 +1,8 @@
 <template>
   <div>
-    <form @submit.prevent="addTask">
-      <input type="text" v-model="newTask" placeholder="Add a task" />
-      <button type="submit">Add</button>
+    <form @submit.prevent="UyeOlmadanDevamEt">
+      <input type="text" v-model="newTask" placeholder="Giris yap" />
+      <button type="submit">submit</button>
     </form>
     <h2>Tasks</h2>
     <ul>
@@ -23,14 +23,12 @@ export default {
     };
   },
   methods: {
-    addTask() {
+    UyeOlmadanDevamEt() {
       if (this.newTask.trim().length === 0) return;
       this.tasks.push(this.newTask);
-      this.newTask = '';
+      
     },
-    remove(index) {
-      this.tasks.splice(index, 1);
-    }
+    
   }
 };
 </script>

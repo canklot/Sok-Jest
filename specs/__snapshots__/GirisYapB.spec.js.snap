@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Giris yapmadan devam et tusu calisiyor mu 1`] = `
+<div>
+  <form><input type="text" placeholder="Giris yap"> <button type="submit">submit</button></form>
+  <h2>Tasks</h2>
+  <ul></ul>
+</div>
+`;
+
+exports[`mount a vue component 1`] = `
+<div>
+  <div class="alan1"><img src="../images/image1.jpg"> <a><button class="buton1">Giriş Yap</button></a> <a><button class="buton2">Yeni Üyelik Oluştur</button></a> <a>
+      <p class="metin1">Giriş yapmadan devam et</p>
+    </a></div>
+</div>
+`;

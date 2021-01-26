@@ -10,7 +10,7 @@
 
 <script>
 import BannerB from "@/components/BannerB.vue";
-import UrunDetay from "@/components/UrunDetay.vue";
+
 import Adres from "@/components/Adres.vue";
 import Kategoriler from "@/components/Kategoriler.vue";
 

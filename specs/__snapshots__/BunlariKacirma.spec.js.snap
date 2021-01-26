@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mount a vue component 1`] = `
+<div class="BunlariKacirma">
+  <div class="Baslik">Bunları Kaçırmayın</div>
+  <div class="urun"><img src="@/images/lipton.jpg" class="urunResim">
+    <div class="indirim">25 TL üzeri indirimli</div>
+    <div class="urunAdi">Lipton Altın Harman Demşik Poşet 100'lü</div>
+    <div class="eskiFiyat"><del>₺43,90</del></div>
+    <div class="yeniFiyat">₺22,00</div>
+    <div class="arti">+</div>
+  </div>
+  <div class="urun"><img src="@/images/deterjan.jpg" class="urunResim">
+    <div class="indirim">25 TL üzeri indirimli</div>
+    <div class="urunAdi">Bingo Sıvı Deterjan 40 Yıkama 2,6Lt</div>
+    <div class="eskiFiyat"><del>₺43,90</del></div>
+    <div class="yeniFiyat">₺22,00</div>
+    <div class="arti">+</div>
+  </div>
+  <div class="urun"><img src="@/images/vanish.jpg" class="urunResim">
+    <div class="indirim">25 TL üzeri indirimli</div>
+    <div class="urunAdi">Vanish Oxi Action Gold Leke Çıkarıcı 1,4Lt</div>
+    <div class="eskiFiyat"><del>₺32,90</del></div>
+    <div class="yeniFiyat">₺18,00</div>
+    <div class="arti">+</div>
+  </div>
+  <div class="urun"><img src="@/images/nivea.jpg" class="urunResim">
+    <div class="indirim">25 TL üzeri indirimli</div>
+    <div class="urunAdi">Nivea Soft Bakım Kremi Nemlendirici 200Ml</div>
+    <div class="eskiFiyat"><del>₺16,95</del></div>
+    <div class="yeniFiyat">₺10,00</div>
+    <div class="arti">+</div>
+  </div>
+  <div class="urun"><img src="@/images/deterjan.jpg" class="urunResim">
+    <div class="indirim">25 TL üzeri indirimli</div>
+    <div class="urunAdi">Bingo Sıvı Deterjan 40 Yıkama 2,6Lt</div>
+    <div class="eskiFiyat"><del>₺43,90</del></div>
+    <div class="yeniFiyat">₺22,00</div>
+    <div class="arti">+</div>
+  </div>
+  <div class="urun"><img src="@/images/deterjan.jpg" class="urunResim">
+    <div class="indirim">25 TL üzeri indirimli</div>
+    <div class="urunAdi">Bingo Sıvı Deterjan 40 Yıkama 2,6Lt</div>
+    <div class="eskiFiyat"><del>₺43,90</del></div>
+    <div class="yeniFiyat">₺22,00</div>
+    <div class="arti">+</div>
+  </div>
+</div>
+`;

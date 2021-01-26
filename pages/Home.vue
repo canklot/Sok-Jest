@@ -17,7 +17,7 @@
 
 <script>
 import BannerB from "../components/BannerB.vue";
-import UrunDetay from "../components/UrunDetay.vue";
+
 import Adres from "../components/Adres.vue"
 import AktuelUrunler from "../components/AktuelUrunler.vue";
 import BunlariKacirma from '../components/BunlariKacirma.vue'

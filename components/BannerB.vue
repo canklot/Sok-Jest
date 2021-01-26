@@ -71,6 +71,12 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
+import store from "../store/users/index.js";
+import Vue from "vue";
+import Vuex from "vuex";
+Vue.use(Vuex);
+
 export default {
   data() {
     return {

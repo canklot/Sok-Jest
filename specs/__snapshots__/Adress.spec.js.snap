@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`mount a vue component 1`] = `
+exports[`Snap control 1`] = `
 <div class="Adres"><img src="../images/ucgen.png" class="ucgen">
   <div class="SilikAdres">Adress Seçin</div> <button class="MaviAdres">
     <p class="AdressSec">Adres Seç</p>

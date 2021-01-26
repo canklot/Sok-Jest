@@ -23,29 +23,11 @@
   "LazyBunlariKacirma": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/BunlariKacirma.vue"
   },
-  "Coppy": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Coppy.vue"
-  },
-  "LazyCoppy": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Coppy.vue"
-  },
   "GirisYapB": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/GirisYapB.vue"
   },
   "LazyGirisYapB": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/GirisYapB.vue"
-  },
-  "HelloWorld": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/HelloWorld.vue"
-  },
-  "LazyHelloWorld": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/HelloWorld.vue"
-  },
-  "Indextest": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/indextest.vue"
-  },
-  "LazyIndextest": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/indextest.vue"
   },
   "Kampanya": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Kampanya.vue"
@@ -71,12 +53,6 @@
   "LazyListItem": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/list-item.vue"
   },
-  "Logo": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Logo.vue"
-  },
-  "LazyLogo": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Logo.vue"
-  },
   "Message": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Message.vue"
   },
@@ -100,12 +76,6 @@
   },
   "LazySepetim": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Sepetim.vue"
-  },
-  "UrunDetay": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/UrunDetay.vue"
-  },
-  "LazyUrunDetay": {
-    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/UrunDetay.vue"
   },
   "Uyegirispage": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/uyegirispage.vue"

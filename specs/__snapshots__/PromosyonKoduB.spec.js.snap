@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Proplar dogru render oluyor mu 1`] = `
+exports[`mount a vue component 1`] = `
 <div class="Aktuel"><img src="../images/Sook.png" class="Sook"> <img src="../images/kettle2.png" class="kettle"> <img src="../images/TostMakinesi.png" class="TostMakinesi">
   <div class="Urun1"><span class="Yuvarlak"><p class="Garanti">	2 YIL GARANTİLİ</p></span>
-    <div class="Marka">TEBA</div>
-    <div class="UrunAdi">ELEKTRİKLİ CAM SU ISITICI</div>
-    <div class="Fiyat">₺89,90</div>
+    <div class="Marka">Ben defaultum TEBA</div>
+    <div class="UrunAdi">Ben defaultum </div>
+    <div class="Fiyat">₺99</div>
     <div class="Aciklama">1,8lt/ Paslanmaz çelik rezistans Su kaynadığında otomatik kapanma/ Susuz kullanılmaya karşı koruma sistemi</div>
   </div>
   <div class="Urun2"><span class="Yuvarlak2"><p class="Garanti">	2 YIL GARANTİLİ</p></span>

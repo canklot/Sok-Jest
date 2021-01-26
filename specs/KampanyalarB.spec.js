@@ -12,7 +12,7 @@ VueWithVuex.use(Vuex) */
 
 Vue.use(Vuex);
 
-test("store is loaded ", () => {
+test("Vuex ile store kontrolu ", () => {
   const store = new Vuex.Store(saladStore);
   const wrapper = mount(KampanyalarB, { store });
 
@@ -34,7 +34,7 @@ test("store is loaded ", () => {
   ]);
 });
 
-describe("Foo", () => {
+describe("Storeile çekilen vuexin renderini test et", () => {
   
     const store = new Vuex.Store(saladStore);
     const wrapper = mount(KampanyalarB, { store });
