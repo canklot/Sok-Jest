@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mount a vue component 1`] = `
+<div class="Adres"><img src="../images/ucgen.png" class="ucgen">
+  <div class="SilikAdres">Adress Seçin</div> <button class="MaviAdres">
+    <p class="AdressSec">Adres Seç</p>
+    <p class="ok">›</p>
+  </button>
+  <div class="SagTaraf">
+    <div class="griArkaplan"><img src="../images/bisiklet.png" class="bisiklet">
+      <div class="adreseTeslim">Adrese Teslim</div>
+      <div class="minSepet">Min sepet</div>
+      <div class="gonderim">Gönderim</div> <img src="../images/market.png" class="market">
+      <div class="gelAl">Marketten Gel Al</div>
+      <div class="minSepet">Min sepet</div>
+    </div>
+  </div>
+</div>
+`;
