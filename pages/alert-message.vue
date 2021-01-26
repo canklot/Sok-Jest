@@ -30,7 +30,7 @@ export default {
 
   beforeDestroy() {
     clearInterval(this.interval);
-    console.log("Alert removed!");
+    /* console.log("Alert removed!"); */
   },
 
   destroyed() {

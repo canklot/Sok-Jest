@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import ListComponent from '@/list'
+import ListComponent from '../pages/list'
 
 const ListItemStub = {
   template: `<li>{{ movie }}</li>`,

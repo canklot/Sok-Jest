@@ -11,6 +11,8 @@ export { default as KampanyalarB } from '../..\\components\\KampanyalarB.vue'
 export { default as Kategoriler } from '../..\\components\\Kategoriler.vue'
 export { default as ListItem } from '../..\\components\\list-item.vue'
 export { default as Logo } from '../..\\components\\Logo.vue'
+export { default as Message } from '../..\\components\\Message.vue'
+export { default as MessageList } from '../..\\components\\MessageList.vue'
 export { default as PromosyonKoduB } from '../..\\components\\PromosyonKoduB.vue'
 export { default as Sepetim } from '../..\\components\\Sepetim.vue'
 export { default as UrunDetay } from '../..\\components\\UrunDetay.vue'
@@ -30,6 +32,8 @@ export const LazyKampanyalarB = import('../..\\components\\KampanyalarB.vue' /* 
 export const LazyKategoriler = import('../..\\components\\Kategoriler.vue' /* webpackChunkName: "components/kategoriler" */).then(c => c.default || c)
 export const LazyListItem = import('../..\\components\\list-item.vue' /* webpackChunkName: "components/list-item" */).then(c => c.default || c)
 export const LazyLogo = import('../..\\components\\Logo.vue' /* webpackChunkName: "components/logo" */).then(c => c.default || c)
+export const LazyMessage = import('../..\\components\\Message.vue' /* webpackChunkName: "components/message" */).then(c => c.default || c)
+export const LazyMessageList = import('../..\\components\\MessageList.vue' /* webpackChunkName: "components/message-list" */).then(c => c.default || c)
 export const LazyPromosyonKoduB = import('../..\\components\\PromosyonKoduB.vue' /* webpackChunkName: "components/promosyon-kodu-b" */).then(c => c.default || c)
 export const LazySepetim = import('../..\\components\\Sepetim.vue' /* webpackChunkName: "components/sepetim" */).then(c => c.default || c)
 export const LazyUrunDetay = import('../..\\components\\UrunDetay.vue' /* webpackChunkName: "components/urun-detay" */).then(c => c.default || c)

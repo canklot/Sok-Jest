@@ -2,9 +2,8 @@
   <div>
     <div class="header">
       <div class="kampanyalar">
-        <!-- Kampanyalardan 9 tane falan olcak v-for ile döngü şeklinde store'dan çekecek -->
-        <!-- <Kampanya :Parametre="salad" /> -->
-        <Kampanya v-for="item in salad" :key="item" :Parametre="item" ></Kampanya>
+        <!-- <Kampanya :Parametre="salad" />  old code -->
+        <Kampanya v-for="item in salad" :key="item" :Parametre="item"></Kampanya>
       </div>
     </div>
   </div>
@@ -21,8 +20,7 @@ Vue.use(Vuex);
 export default {
   data() {
     return {
-      ...this.$store.state
-        .store /* sonuna neden tekrar store koyuyuorum anlamadım ama silince çalışmıyor*/
+      ...this.$store.state.store /* sonuna neden tekrar store koyuyuorum anlamadım ama silince çalışmıyor*/
     };
   },
   methods: {

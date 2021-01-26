@@ -77,6 +77,18 @@
   "LazyLogo": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Logo.vue"
   },
+  "Message": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Message.vue"
+  },
+  "LazyMessage": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/Message.vue"
+  },
+  "MessageList": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/MessageList.vue"
+  },
+  "LazyMessageList": {
+    "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/MessageList.vue"
+  },
   "PromosyonKoduB": {
     "description": "Auto imported from C:/Users/Canavar/Desktop/Projeler/Vue/Sok-Jest/components/PromosyonKoduB.vue"
   },

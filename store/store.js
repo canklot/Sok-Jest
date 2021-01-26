@@ -25,7 +25,7 @@ export default {
       state.salad.push(ingredient);
     }
   },
-
+/* sepete ekle yapabiriz belki */
   actions: {
     addIngredient({ commit }, ingredient) {
       commit("addIngredient", ingredient);

@@ -1,7 +1,7 @@
 export default {
   state() {
     return {
-      salad: ["salad"]
+      salad: []
     }
   },
 
