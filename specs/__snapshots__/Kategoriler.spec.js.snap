@@ -2,6 +2,6 @@
 
 exports[`mount a vue component 1`] = `
 <div class="Kategoriler">
-  <div class="Baslik">Süt &amp; süt ürünleri</div> <button class="Kategori">Süt</button> <button class="Kategori">Yoğurt</button> <button class="Kategori">Ayran &amp; kefir</button> <button class="Kategori">Beyaz Peynir</button> <button class="Kategori">Krem Peynir</button> <button class="Kategori">Yöresel Gurme Peynir</button> <button class="Kategori">Kaymak &amp; Krema</button> <button class="Kategori">Tereyağ &amp; Margarin</button> <button class="Kategori">Maya</button> <button class="Kategori">Kaşar Peyniri</button> <button class="Kategori">Kaşar Peyniri</button> <button class="Kategori">Kaşar Peyniri</button>
+  <div class="Baslik">Süt &amp; süt ürünleri</div> <button id="sut" class="Kategori">Süt</button> <button class="Kategori">Yoğurt</button> <button class="Kategori">Ayran &amp; kefir</button> <button class="Kategori">Beyaz Peynir</button> <button class="Kategori">Krem Peynir</button> <button class="Kategori">Yöresel Gurme Peynir</button> <button class="Kategori">Kaymak &amp; Krema</button> <button class="Kategori">Tereyağ &amp; Margarin</button> <button class="Kategori">Maya</button> <button class="Kategori">Kaşar Peyniri</button> <button class="Kategori">Kaşar Peyniri</button> <button class="Kategori">Kaşar Peyniri</button>
 </div>
 `;

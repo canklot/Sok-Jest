@@ -6,11 +6,9 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _3ed2c26c = () => interopDefault(import('..\\pages\\exercise-1.vue' /* webpackChunkName: "pages/exercise-1" */))
 const _3eb6936a = () => interopDefault(import('..\\pages\\exercise-2.vue' /* webpackChunkName: "pages/exercise-2" */))
-const _7699dd4d = () => interopDefault(import('..\\pages\\Home.vue' /* webpackChunkName: "pages/Home" */))
 const _40218528 = () => interopDefault(import('..\\pages\\list.vue' /* webpackChunkName: "pages/list" */))
 const _006d81fc = () => interopDefault(import('..\\pages\\salad-bowl.vue' /* webpackChunkName: "pages/salad-bowl" */))
 const _507dc9a2 = () => interopDefault(import('..\\pages\\sepet.vue' /* webpackChunkName: "pages/sepet" */))
-const _9940571a = () => interopDefault(import('..\\pages\\Sepetim.vue' /* webpackChunkName: "pages/Sepetim" */))
 const _78d48d5a = () => interopDefault(import('..\\pages\\SutUrunleri.vue' /* webpackChunkName: "pages/SutUrunleri" */))
 const _59a9ebc5 = () => interopDefault(import('..\\pages\\temprature.vue' /* webpackChunkName: "pages/temprature" */))
 const _4b5fb760 = () => interopDefault(import('..\\pages\\test.vue' /* webpackChunkName: "pages/test" */))
@@ -43,10 +41,6 @@ export const routerOptions = {
     component: _3eb6936a,
     name: "exercise-2"
   }, {
-    path: "/Home",
-    component: _7699dd4d,
-    name: "Home"
-  }, {
     path: "/list",
     component: _40218528,
     name: "list"
@@ -58,10 +52,6 @@ export const routerOptions = {
     path: "/sepet",
     component: _507dc9a2,
     name: "sepet"
-  }, {
-    path: "/Sepetim",
-    component: _9940571a,
-    name: "Sepetim"
   }, {
     path: "/SutUrunleri",
     component: _78d48d5a,

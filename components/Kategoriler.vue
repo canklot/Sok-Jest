@@ -1,7 +1,7 @@
 <template>
   <div class="Kategoriler">
     <div class="Baslik">Süt &amp; süt ürünleri</div>  
-    <button class="Kategori">Süt</button>
+    <button class="Kategori" id="sut">Süt</button>
     <button class="Kategori">Yoğurt</button>
     <button class="Kategori">Ayran 	&amp; kefir</button>
     <button class="Kategori">Beyaz Peynir</button>

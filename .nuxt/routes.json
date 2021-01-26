@@ -14,13 +14,6 @@
     "_name": "_3eb6936a"
   },
   {
-    "name": "Home",
-    "path": "/Home",
-    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\Home.vue",
-    "chunkName": "pages/Home",
-    "_name": "_7699dd4d"
-  },
-  {
     "name": "list",
     "path": "/list",
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\list.vue",
@@ -40,13 +33,6 @@
     "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\sepet.vue",
     "chunkName": "pages/sepet",
     "_name": "_507dc9a2"
-  },
-  {
-    "name": "Sepetim",
-    "path": "/Sepetim",
-    "component": "C:\\\\Users\\\\Canavar\\\\Desktop\\\\Projeler\\\\Vue\\\\Sok-Jest\\\\pages\\\\Sepetim.vue",
-    "chunkName": "pages/Sepetim",
-    "_name": "_9940571a"
   },
   {
     "name": "SutUrunleri",
