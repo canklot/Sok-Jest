@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storeile çekilen vuexin renderini test et has the expected html structure 1`] = `
+exports[`Store'dan vuex ile çekilen verinin renderini test et render ile snapi kıyasla 1`] = `
 <div>
   <div class="header">
     <div class="kampanyalar"></div>
