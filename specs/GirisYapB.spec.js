@@ -16,7 +16,7 @@ test('Giris yapmadan devam et tusu calisiyor mu', async () => {
 test('mount a vue component', () => {
     const wrapper = mount(TestComponent,{ 
       stubs: {
-        NuxtLink: RouterLinkStub
+        NuxtLink: RouterLinkStub /* nuxt hatasını düzeltiyor bu kısım */
       }
     })
     expect(wrapper).toMatchSnapshot()

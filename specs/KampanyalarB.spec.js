@@ -34,13 +34,13 @@ test("Vuex ile store kontrolu ", () => {
   ]);
 });
 
-describe("Storeile çekilen vuexin renderini test et", () => {
+describe("Store'dan vuex ile çekilen verinin renderini test et", () => {
   
     const store = new Vuex.Store(saladStore);
     const wrapper = mount(KampanyalarB, { store });
-    /* console.log("looooooooooooooooooooog");
+    /* console.log("--------Benim ALtımda Loglar var-------");
     console.log(wrapper.html()); */
-    it("has the expected html structure", () => {
+    it("render ile snapi kıyasla", () => {
       expect(wrapper).toMatchSnapshot();
     });
   
@@ -52,7 +52,7 @@ describe("Storeile çekilen vuexin renderini test et", () => {
     {slots: {
     Kampanya: Kampanya
   }},);
-  console.log("looooooooooooooooooooog");
+  console.log("--------Benim ALtımda Loglar var-------");
   console.log(wrapper.html());
   const lis = wrapper.findAll("Kampanya"); 
   expect(lis.length).toBe(9);

@@ -10,7 +10,6 @@ const _40218528 = () => interopDefault(import('..\\pages\\list.vue' /* webpackCh
 const _006d81fc = () => interopDefault(import('..\\pages\\salad-bowl.vue' /* webpackChunkName: "pages/salad-bowl" */))
 const _507dc9a2 = () => interopDefault(import('..\\pages\\sepet.vue' /* webpackChunkName: "pages/sepet" */))
 const _78d48d5a = () => interopDefault(import('..\\pages\\SutUrunleri.vue' /* webpackChunkName: "pages/SutUrunleri" */))
-const _59a9ebc5 = () => interopDefault(import('..\\pages\\temprature.vue' /* webpackChunkName: "pages/temprature" */))
 const _4b5fb760 = () => interopDefault(import('..\\pages\\test.vue' /* webpackChunkName: "pages/test" */))
 const _81b71994 = () => interopDefault(import('..\\pages\\uyegirispage.vue' /* webpackChunkName: "pages/uyegirispage" */))
 const _3bae96ec = () => interopDefault(import('..\\pages\\uyekayitpage.vue' /* webpackChunkName: "pages/uyekayitpage" */))
@@ -56,10 +55,6 @@ export const routerOptions = {
     path: "/SutUrunleri",
     component: _78d48d5a,
     name: "SutUrunleri"
-  }, {
-    path: "/temprature",
-    component: _59a9ebc5,
-    name: "temprature"
   }, {
     path: "/test",
     component: _4b5fb760,

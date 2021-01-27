@@ -6,7 +6,7 @@ test("Snap control", () => {
   expect(wrapper).toMatchSnapshot();
 });
 
-test("SagTaraf css sınıfına sahip div render oluyor mu", () => {
+test("SagTaraf adli css sınıfına sahip div render oluyor mu kontrol et", () => {
   const wrapper = mount(TestComponent);
   expect(wrapper.find("div.SagTaraf").exists()).toBeTruthy();
 });

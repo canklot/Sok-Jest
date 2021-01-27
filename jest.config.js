@@ -2,6 +2,7 @@ module.exports = {
   verbose: true,
   collectCoverage: true,
   
+  
   roots: ["<rootDir>", "<rootDir>/specs/"],
   moduleFileExtensions: ["js", "vue"],
   moduleNameMapper: {

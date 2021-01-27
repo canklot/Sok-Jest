@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import GirisYapB from "@/components/GirisYapB.vue";
+import GirisYapB from "../components/GirisYapB.vue";
 import {mapState} from 'vuex';
 
 /* giriş tuşunun düzeltilmesi lazım */

@@ -15,7 +15,7 @@ test('sepete urun ekler DOM', () => {
 
   button.trigger('click')
   expect(wrapper.vm.fruit).toBe('')
-  expect(wrapper.vm.basket).toEqual(expect.arrayContaining(['banana']))  /* Sepette bana var mı bak */
+  expect(wrapper.vm.basket).toEqual(expect.arrayContaining(['banana']))  /* Sepette banana var mı bak */
   /* console.log(wrapper)
   expect(wrapper.findAll('li').length).toBe(0)/*  1 */ 
 
