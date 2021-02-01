@@ -1,7 +1,7 @@
 import TestComponent from '../components/BunlariKacirma.vue'
 import { mount } from '@vue/test-utils'
 
-test('mount a vue component', () => {
+test('snapshot kontrolu', () => {
     const wrapper = mount(TestComponent)
     expect(wrapper).toMatchSnapshot()
   })
