@@ -1,5 +1,9 @@
 # SokNuxt
 
+Copy of ```https://www.sokmarket.com.tr/ ```
+
+Made with jest
+
 ## Build Setup
 
 ```bash
