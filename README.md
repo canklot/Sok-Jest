@@ -2,7 +2,7 @@
 
 Copy of ```https://www.sokmarket.com.tr/ ```
 
-Made with jest
+Made with Vue.js and jest
 
 ## Build Setup
 
